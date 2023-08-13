@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-sobre {
+    width: 50%;
+    height: 80%;
+    display: inline-block;
+    position: absolute;
+    margin-left: 30px;
+
+}
+.sobre3{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.sobre2 {
+    background-color: #FFA4DB;
+}
+
+p {
+    width: 300px;
+    display: inline-block;
+    margin-top: 15%;
+    margin-left: 20px;
+}
+
+a {
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+button {
+    background-color: #FE92CC;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    margin-left: 30px;
+}
